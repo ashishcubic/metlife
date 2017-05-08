@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1085001439009",
+    "firebase_url": "https://click2cover-lms.firebaseio.com",
+    "project_id": "click2cover-lms",
+    "storage_bucket": "click2cover-lms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085001439009:android:a1c58691a0b4d358",
+        "android_client_info": {
+          "package_name": "metlife.lms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085001439009-6fg48dq8s4vus8v6dt0hclde7hdlmral.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "metlife.lms",
+            "certificate_hash": "b58e1b5859f47f3d90359283a44f5ba1549436bd"
+          }
+        },
+        {
+          "client_id": "1085001439009-3jh3e9sg9tnuljeqcnokf37495a1ra6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbpHSCVJpZuuCW7H19xK8Z6WjOAHOyH4A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085001439009-3jh3e9sg9tnuljeqcnokf37495a1ra6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
